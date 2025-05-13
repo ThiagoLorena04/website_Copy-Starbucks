@@ -67,10 +67,6 @@ header .green-line {
   display: flex;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> bc13feb (Falta refatorar todos os elementos do site, visando a otimização)
 .header-search input {
   font-size: 16px;
   padding: 12px 25px;
@@ -86,35 +82,24 @@ header .green-line {
   cursor: pointer;
 }
 
-<<<<<<< HEAD
-.header-search button img{
-=======
 .header-search button img {
->>>>>>> bc13feb (Falta refatorar todos os elementos do site, visando a otimização)
   width: 16px;
   height: 16px;
   margin-left: -60px;
 }
 
-<<<<<<< HEAD
-.header-rigth{
-=======
 .header-rigth {
->>>>>>> bc13feb (Falta refatorar todos os elementos do site, visando a otimização)
   display: flex;
   align-items: center;
 }
-
-<<<<<<< HEAD
-.header-menu{
+.header-menu {
   margin-left: 20px;
-
 }
-.header-menu img{
+.header-menu img {
   width: 25px;
   height: 25px;
-  cursor: pointer
-=======
+  cursor: pointer;
+}
 .header-menu {
   margin-left: 20px;
 }
