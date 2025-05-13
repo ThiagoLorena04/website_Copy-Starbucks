@@ -24,9 +24,43 @@ header .green-line {
   height: 72px;
 }
 
+.header-search form {
+  display: flex;
+}
+
+
 .header-search input {
   font-size: 16px;
-  padding: 7px 10px;
+  padding: 12px 25px;
   border: 1px solid #999999;
   outline: 0;
+  width: 100%;
+  max-width: 250px;
+}
+
+.header-search button {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.header-search button img{
+  width: 16px;
+  height: 16px;
+  margin-left: -60px;
+}
+
+.header-rigth{
+  display: flex;
+  align-items: center;
+}
+
+.header-menu{
+  margin-left: 20px;
+
+}
+.header-menu img{
+  width: 25px;
+  height: 25px;
+  cursor: pointer
 }
