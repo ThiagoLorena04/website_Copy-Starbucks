@@ -1,0 +1,32 @@
+body {
+  font-family: "Opens Sans", "Sans Serif";
+  margin: 0;
+}
+
+.container {
+  max-width: 1300px;
+  margin: auto;
+}
+
+header .green-line {
+  background-color: #117050;
+  height: 10px;
+}
+
+.header-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+.header-left img {
+  width: 72px;
+  height: 72px;
+}
+
+.header-search input {
+  font-size: 16px;
+  padding: 7px 10px;
+  border: 1px solid #999999;
+  outline: 0;
+}
